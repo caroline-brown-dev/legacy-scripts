@@ -1,0 +1,4 @@
+# Backup configs from 2020
+# Do not delete unless you're Caroline.
+username=admin
+password=admin123
